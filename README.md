@@ -6,3 +6,15 @@
 - YandexMap API
 - Tailwind
 - Redux Toolkit
+
+## Запуск
+
+```bash
+npm i
+# or
+npm install
+```
+
+```bash
+npm run dev
+```
